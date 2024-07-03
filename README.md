@@ -6,3 +6,4 @@ Laboratórios de programação com a linguagem Python
 2. Variáveis
 3. Entrada
 4. Condição
+5. Objetos
